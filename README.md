@@ -3,10 +3,10 @@
 
 Bem-vindo ao repositório de Ebooks.
 
-Este espaço foi criado para disponibilizar livros de diversas áreas da tencnologia.Clique no link abaixo e você será redirecionado ao drive de ebooks.
+Este espaço foi criado para disponibilizar livros das disciplinas de tecnologia. Clique no link abaixo e você será redirecionado ao drive de ebooks.
 <br><br><br><br>
 
-<br>
+
 
 ## 📘 Drive Ebooks
 
